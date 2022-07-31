@@ -1,0 +1,9 @@
+Bot commands to implement:
+
+!trivia: bot tells a random fact.
+
+!morse: bot translates a given sentence, or single character, to morse code.
+        Numbers are also suitable.
+
+!lifehacks: bot tells a random lifehack, whether or not they be a helpful one or
+            just a troll.
